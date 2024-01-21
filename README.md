@@ -37,4 +37,10 @@ After starting the server, open your browser and go to the following address:
 localhost:8000
 ```
 ## Gallery
-![image](https://github.com/Templatew/Hangman-Game/assets/96289463/f258f295-b5ad-4037-8243-3f4f02f65eca)
+![image](https://github.com/Templatew/Hangman-Game/assets/96289463/261433bb-a84a-46f1-9776-a33755a88d34)
+![image](https://github.com/Templatew/Hangman-Game/assets/96289463/fcc88e8e-8aca-4b13-bf5f-30fc3c5fc1fb)
+![image](https://github.com/Templatew/Hangman-Game/assets/96289463/da6107f6-b544-4eb3-a1d1-5b08c8c59bb2)
+
+
+
+
