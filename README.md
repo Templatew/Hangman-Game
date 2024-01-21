@@ -10,7 +10,7 @@ Before you begin, ensure you have [Node.js](https://nodejs.org/) installed on yo
 
 1. Clone the repository to your local machine using:
    ```
-   git clone [REPOSITORY_URL]
+   git clone https://github.com/Templatew/Hangman-Game/
    ```
 
 2. Navigate to the project folder:
